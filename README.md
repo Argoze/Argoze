@@ -26,5 +26,5 @@
 </div><br>
 <h2 align="center">About me 🙋🏻‍♂️</h2>
 <h3>Studying Computer Engineering</h3>
-<h3>In search of constant evolution, passionate about technology and learning</h3>
+<h3>Searching for constant evolution. Passionate about technology and learning</h3>
 
