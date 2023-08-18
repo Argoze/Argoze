@@ -24,4 +24,4 @@
 Cursando Eng. da computação(Facens) <br>
 Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
