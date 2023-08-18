@@ -24,4 +24,3 @@
 Cursando Eng. da computação(Facens) <br>
 Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 
-![Snake animation](https://github.com/[Argoze](https://github.com/Argoze)/coloque aq/blob/output/github-contribution-grid-snake.svg)
