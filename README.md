@@ -18,5 +18,9 @@
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
+</div><br>
+<h1>sobre mim</h1>
+Cursando Eng. da computação(Facens) <br>
+Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 
-</div>
+
