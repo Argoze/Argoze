@@ -8,6 +8,7 @@
 ![Argoze GitHub stats](https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=synthwave)
 
 
+
 ### Aprendizados 👨🏻‍💻
 <div style="display: inline_block">
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -16,12 +17,11 @@
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
+<img alig="right" alt="Argozegif" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
 </div><br>
 <h1>Sobre mim</h1>
 Cursando Eng. da computação <br>
 Em busca da evolução constante, apaixonado por tecnologia e aprendizado
-<img alig="right" alt="Argozegif" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
 <hr>
 <br>
 
