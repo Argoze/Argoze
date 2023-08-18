@@ -2,7 +2,7 @@
 
 <img alig="center" alt="Argozegif" height="400" width="900" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdvcTkwNWNpZzBlYjdyaXVncDk0ZHZsd3F1bjlpZm5pNmVqNHVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwCD9plextCk42pVG/giphy.gif">
 
-<h2 align="center" alt="nome"> Hi, I'm Argoze 🤙🏼</h2>
+<h1 align="center" alt="nome"> Hi, I'm Argoze 🤙🏼</h1>
 <h3 align="center">These are my social media👇🏼</h3>
 <div align="center">
 <a href="https://www.twitch.tv/argoze_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
