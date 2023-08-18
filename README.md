@@ -10,7 +10,9 @@
 <a href="https://www.instagram.com/argoze_/?hl=da" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gustavo-argoze-0b64ba23b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-
+<div align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=synthwave"height="200" width=""/>
+</div>
 
 <h2 align="center"> Learnings 👨🏻‍💻</h2>
 <div align="center" style="display: inline_block">
