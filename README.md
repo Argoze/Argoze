@@ -7,8 +7,6 @@
 
 ![Argoze GitHub stats](https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=synthwave)
 
-<img alig="center" alt="Argoze" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
-
 ### Aprendizados 👨🏻‍💻
 <div style="display: inline_block">
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +21,7 @@ Cursando Eng. da computação <br>
 Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 <hr>
 <br>
-<img alig="right" alt="Argozegif" height="300" width="800"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdvcTkwNWNpZzBlYjdyaXVncDk0ZHZsd3F1bjlpZm5pNmVqNHVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwCD9plextCk42pVG/giphy.gif">
+<img alig="right" alt="Argozegif" height="400" width="900"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdvcTkwNWNpZzBlYjdyaXVncDk0ZHZsd3F1bjlpZm5pNmVqNHVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwCD9plextCk42pVG/giphy.gif">
 
 
 ### Hi, I'm Argoze 🤙🏼 
