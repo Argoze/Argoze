@@ -1,5 +1,5 @@
 
-
+<img align="right" alt"Argozegif" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
 ### Olá sou o Argoze 🤙🏼
 ### Essas são minhas redes sociais👇🏼
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/argoze_)
@@ -51,5 +51,5 @@ Studying Computer Engineering <br>
 In search of constant evolution, passionate about technology and learning
 
 
-![Snake animation](https://github.com/Argoze/Argoze/blob/output/github-contribution-grid-snake.svg)
+
 
