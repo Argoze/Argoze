@@ -50,3 +50,6 @@ Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 Studying Computer Engineering <br>
 In search of constant evolution, passionate about technology and learning
 
+
+![Snake animation](https://github.com/Argoze/Argoze/blob/output/github-contribution-grid-snake.svg)
+
