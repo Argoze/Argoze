@@ -24,7 +24,7 @@
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 </div><br>
-<h2 align="center">About me</h2>
+<h2 align="center">About me 🙋🏻‍♂️</h2>
 <h3>Studying Computer Engineering</h3>
 <h3>In search of constant evolution, passionate about technology and learning</h3>
 
