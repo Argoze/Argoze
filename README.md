@@ -1,6 +1,3 @@
-<img alig="center" alt="Argoze" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
-
-
 ### Olá sou o Argoze 🤙🏼
 ### Essas são minhas redes sociais👇🏼
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/argoze_)
@@ -10,7 +7,7 @@
 
 ![Argoze GitHub stats](https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=synthwave)
 
-
+<img alig="center" alt="Argoze" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
 
 ### Aprendizados 👨🏻‍💻
 <div style="display: inline_block">
@@ -20,7 +17,6 @@
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img alig="right" alt="Argozegif" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
 </div><br>
 <h1>Sobre mim</h1>
 Cursando Eng. da computação <br>
