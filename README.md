@@ -1,5 +1,6 @@
 
 
+<img alig="center" alt="Argozegif" height="400" width="900" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdvcTkwNWNpZzBlYjdyaXVncDk0ZHZsd3F1bjlpZm5pNmVqNHVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwCD9plextCk42pVG/giphy.gif">
 
 <h2 align="center" alt="nome"> Olá sou o Argoze 🤙🏼</h2>
 <h3 align="center">Essas são minhas redes sociais👇🏼</h3>
