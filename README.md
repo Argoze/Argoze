@@ -1,5 +1,3 @@
-
-<img alig="right" alt="Argozegif" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
 ### Olá sou o Argoze 🤙🏼
 ### Essas são minhas redes sociais👇🏼
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/argoze_)
@@ -23,6 +21,7 @@
 <h1>Sobre mim</h1>
 Cursando Eng. da computação <br>
 Em busca da evolução constante, apaixonado por tecnologia e aprendizado
+<img alig="right" alt="Argozegif" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
 <hr>
 <br>
 
