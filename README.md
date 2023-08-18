@@ -10,7 +10,7 @@
 ![Argoze GitHub stats](https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=synthwave)
 
 
-### Tudo que estou fazendo 👨🏻‍💻
+### Aprendizados 👨🏻‍💻
 <div style="display: inline_block">
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 </div><br>
 <h1>Sobre mim</h1>
-Cursando Eng. da computação(Facens) <br>
+Cursando Eng. da computação <br>
 Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 <hr>
 <br>
@@ -36,7 +36,7 @@ Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 ![Argoze GitHub stats](https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=synthwave)
 
 
-### Everything i'm doing 👨🏻‍💻
+### Learnings 👨🏻‍💻
 <div style="display: inline_block">
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -47,6 +47,6 @@ Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 
 </div><br>
 <h1>About me</h1>
-Studying Computer Engineering (Facens) <br>
+Studying Computer Engineering <br>
 In search of constant evolution, passionate about technology and learning
 
