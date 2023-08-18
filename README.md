@@ -1,4 +1,4 @@
-<img alig="center" alt="Argoze" src="[https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif](https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif)">
+<img alig="center" alt="Argoze" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
 
 
 ### Olá sou o Argoze 🤙🏼
