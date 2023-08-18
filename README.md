@@ -23,7 +23,7 @@ Cursando Eng. da computação <br>
 Em busca da evolução constante, apaixonado por tecnologia e aprendizado
 <hr>
 <br>
-<img alig="right" alt="Argozegif" height="300" width="800" src="https://cdn.discordapp.com/attachments/797627214228226079/1142158285122846852/giphy_2.gif">
+<img alig="right" alt="Argozegif" height="300" width="800"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdvcTkwNWNpZzBlYjdyaXVncDk0ZHZsd3F1bjlpZm5pNmVqNHVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwCD9plextCk42pVG/giphy.gif">
 
 
 ### Hi, I'm Argoze 🤙🏼 
