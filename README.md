@@ -16,6 +16,7 @@
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img aling="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<br>
 
 <img alig="left" alt="Argozegif" height="245" width="245" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdvcTkwNWNpZzBlYjdyaXVncDk0ZHZsd3F1bjlpZm5pNmVqNHVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwCD9plextCk42pVG/giphy.gif">
 
