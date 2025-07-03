@@ -23,7 +23,7 @@ Olá! Me chamo Gustavo Argoze, tenho paixão por tecnologia e estou sempre busca
 
 ---
 
-### 🧠 Tecnologias que estudo e utilizo
+### Tecnologias que estudo e utilizo
 
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
