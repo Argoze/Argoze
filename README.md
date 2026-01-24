@@ -1,29 +1,22 @@
 # 👨🏻‍💻 Gustavo Argoze
 
-**`Estudante de Engenharia da Computação`**
+**`Computer Engineering Student`**
 
-Olá! Me chamo Gustavo Argoze, tenho paixão por tecnologia e estou sempre buscando evolução constante. Atualmente curso Engenharia da Computação e estou sempre me aprofundando no desenvolvimento de sistemas, seja por hobby ou estudo. Gosto de compartilhar meu progresso e aprendizados em diversas plataformas.
+Hello! My name is Gustavo Argoze. I am passionate about technology and always seeking constant growth. I am currently pursuing a degree in Computer Engineering and constantly diving deeper into systems development, whether for hobby or academic study. I enjoy sharing my progress and learnings across various platforms.
 
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCQOdGbRgy9bjwrlFvwSHSrQ" target="_blank">
-    <img 
-      alt="YouTube Subscribers" 
-      title="Inscreva-se no meu canal" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQOdGbRgy9bjwrlFvwSHSrQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-    />
-  </a>
   <a href="https://github.com/Argoze?tab=followers">
     <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/Argoze?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      alt="Followers" 
+      title="Follow me on GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Argoze?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
     />
   </a>
 </p>
 
 ---
 
-### Tecnologias que estudo e utilizo
+### Technologies I study and use
 
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -38,16 +31,16 @@ Olá! Me chamo Gustavo Argoze, tenho paixão por tecnologia e estou sempre busca
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="left">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=tokyonight&locale=en" 
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argoze&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argoze&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=10" 
   />
 </p>
 
