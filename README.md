@@ -12,6 +12,13 @@ Hello! My name is Gustavo Argoze. I am passionate about technology and always se
       src="https://custom-icon-badges.demolab.com/github/followers/Argoze?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
     />
   </a>
+  <a href="https://www.linkedin.com/in/gustavo-argoze-0b64ba23b/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Connect with me on LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
