@@ -37,20 +37,6 @@ Hello! My name is Gustavo Argoze. I am passionate about technology and always se
 <br><br>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Argoze&show_icons=true&theme=tokyonight&locale=en" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argoze&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=10" 
-  />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argoze/Argoze/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argoze/Argoze/output/github-contribution-grid-snake.svg">
